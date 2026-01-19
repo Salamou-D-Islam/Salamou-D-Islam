@@ -17,5 +17,5 @@ Les détail pour chaque projet sont disponible sur mon site Salamou JS
 
 ## Contact
 Mon protfolio: [Salamou JS](https://islam-derrouiche-salamou.netlify.app/)
-[LinkedIn](https://www.linkedin.com/in/islam-derrouiche-7a69a8368/) | [Malt](https://www.malt.fr/profile/islamderrouiche1)
+[LinkedIn](https://www.linkedin.com/in/islam-derrouiche-7a69a8368/)
 
