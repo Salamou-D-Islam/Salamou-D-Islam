@@ -16,6 +16,6 @@ J’interviens aussi bien sur le frontend avec React que sur le backend avec Nod
 Les détail pour chaque projet sont disponible sur mon site Salamou JS
 
 ## Contact
-Mon protfolio: [Salamou JS](https://islam-derrouiche-salamou.netlify.app/)
+Mon protfolio: [Islam D](https://islam-derrouiche.netlify.app/)
 [LinkedIn](https://www.linkedin.com/in/islam-derrouiche-7a69a8368/)
 
